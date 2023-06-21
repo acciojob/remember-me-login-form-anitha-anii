@@ -1,5 +1,4 @@
-
-    function submitForm() {
+function submitForm() {
   var username = document.getElementById("username").value;
   var password = document.getElementById("password").value;
   var rememberMe = document.getElementById("checkbox").checked;
